@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ArtefactumSK
-- 👀 I’m a graphic designer a long time and interested in create Wordpress design themes and mobile Apps together
+- 👀 I’m a graphic designer a long time and interested in create modern and fast design themes for Wordpress and mobile Apps together
 - 🌱 I’m currently learning how to do it
 - 💞️ I’m looking to collaborate on these solutions
 
